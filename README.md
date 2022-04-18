@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehdinayan.
-- 🌱 I’m currently learning C# programming in Unity and updating this in order to don't forget how it works!
-- 💞️ Finished Coursera course The Unix Workbench in four months, because there is too much to learn in only 4 weeks I think. 
+- 🌱 I’m currently learning C# programming in Unity as well as HTML,css Java and JavaScript, also updating this in order to don't forget how it works!
+- 💞️ Finished Coursera course The Unix Workbench in four months, now doing an app development course with web technology. 
 - 📫 How to reach me: alejandro_ml79@protonmail.com.
 
 
