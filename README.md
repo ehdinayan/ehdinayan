@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ehdinayan.
-- 🌱 Junior Web tech app developer, also updating this in order to don't forget how it works!
-- 💞️ Finished Coursera course The Unix Workbench. 
+- 🌱 Junior Web developer, also like music and videogames!
+- 💞️ Finished BARCELONA ACTIVA Web Tech App Developement course last year. 
+- 💞️ Working on my personal projects and looking for a job in tech sector. 
 - 📫 How to reach me: alejandro_ml79@protonmail.com.
   
 Hellow to everybody
