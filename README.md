@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @ehdinayan (Alejandro M L)
 - 🌱 Junior Web developer, also like music and videogames!
 - 💞️ Finished BARCELONA ACTIVA Web Tech App Developement course last year.
-- 💞️ Working on my personal projects and looking for a job in tech sector.
+- 💞️ Working on my personal projects and searching for my firsts jobs in tech sector.
 - 📫 How to reach me: alejandro_ml79@protonmail.com.
 
 
