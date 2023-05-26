@@ -14,13 +14,14 @@ ehdinayan/ehdinayan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-HOLA A TODO EL MUNDO
+HOLA!
 
 Aquí  presento mi web personal partiendo de la siguiente plantilla y [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
 
 Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte.
-_____________________________________________________________________
-HELLOW TO EVERYBODY
+
+
+HELLOW!
 
 This is my personal Web Site from following template and [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
 
