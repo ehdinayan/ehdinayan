@@ -1,12 +1,57 @@
-- 👋 Hi, I’m @ehdinayan.
+# MI WEB PERSONAL / MY PERSONAL WEB SITE
+
+
+- 👋 Hi, I’m @ehdinayan (Alejandro M L)
 - 🌱 Junior Web developer, also like music and videogames!
-- 💞️ Finished BARCELONA ACTIVA Web Tech App Developement course last year. 
-- 💞️ Working on my personal projects and looking for a job in tech sector. 
+- 💞️ Finished BARCELONA ACTIVA Web Tech App Developement course last year.
+- 💞️ Working on my personal projects and looking for a job in tech sector.
 - 📫 How to reach me: alejandro_ml79@protonmail.com.
-  
-Hellow to everybody
+
+
 
 <!---
 ehdinayan/ehdinayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+HOLA A TODO EL MUNDO
+
+Aquí  presento mi web personal partiendo de la siguiente plantilla y [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
+
+Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte.
+_____________________________________________________________________
+HELLOW TO EVERYBODY
+
+This is my personal Web Site from following template and [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
+
+I'll be updating it with new tech knowledge and projects I join.
+
+## Agradecimiento y atribuciones / Attributions & thanks to:
+
+- **MUSIC - FX**
+
+  **Alejandro Magaña**
+
+  See Line Funk, [mixkit.](https://mixkit.co/) (JavaScript video)
+
+  **French Fuse**
+
+  Straight [Fuse.](https://www.youtube.com/watch?v=6ozdaINBLhQ) (Web analysis video)
+
+  **FiftySounds**
+
+  Amazing [future](https://www.fiftysounds.com/es/musica-libre-de-derechos/ambiente.html) (Bootstrap video)
+
+  **Neffex**
+
+  [Go!](https://www.youtube.com/watch?v=X5cfg26vkOQ) (HTML5 & CSS Video)
+
+  [The Itch](https://www.youtube.com/watch?v=9uYhFfXXtwA)  (Design Video)
+
+  [No Turning Back](https://www.youtube.com/watch?v=WzHyamdBZ2Y)  (Web analysis video)
+
+  Rie's sound effects series [cars.](https://freesound.org/people/Rie-chanThirty/sounds/683896/) (Web analysis video)
+
+  **thanks also to:**
+
+  @Barcelona Activa, @Daniel Bright, @Kolade Chris
