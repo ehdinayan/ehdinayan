@@ -59,4 +59,4 @@ This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo 
 
   **thanks also to:**
 
-  @Barcelona Activa, @Daniel Bright, @Kolade Chris
+  SOC, @Barcelona Activa, @Daniel Bright, @Kolade Chris
