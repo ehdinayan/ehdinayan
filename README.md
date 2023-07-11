@@ -57,6 +57,8 @@ This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo 
 
   Rie's sound effects series [cars.](https://freesound.org/people/Rie-chanThirty/sounds/683896/) (Web analysis video)
 
+  **Icons** [Icons8](https://icons8.com/)
+
   **thanks also to:**
 
   SOC, @Barcelona Activa, @Daniel Bright, @Kolade Chris
