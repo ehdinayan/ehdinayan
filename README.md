@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @ehdinayan (Alejandro M L)
 - 🌱 Web Developer, also like music and videogames!
 - 💞️ Finished SOC & BARCELONA ACTIVA Web Tech App Developement course in October 2022.
-- 💞️ Joined short freelance career and still working on personal projects.
+- 💞️ Joined short Freelance career and still working on personal projects.
 - 📫 How to reach me: alejandro_ml79@protonmail.com.
 
 
