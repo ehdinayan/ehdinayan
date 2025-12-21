@@ -20,7 +20,7 @@ Aquí  presento mi web personal partiendo de la siguiente plantilla y [tutorial.
 
 Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte.
 
-Este es el enlace al [código provisional](https://github.com/ehdinayan/portfolio), ya que probablemente vaya a corregir posibles fallos y cambiar el dominio. Aquí el enlace a la [web para visitar](https://ehdinayan.github.io/portfolio/)
+Aquí el enlace a la [web para visitar](https://crazydb.netlify.app/)
 
 
 HELLOW!
@@ -29,36 +29,24 @@ This is my personal Web Site from following template and [tutorial.](https://www
 
 I'll be updating it with new tech knowledge and projects I join.
 
-This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo before fixing possible errors or domain name change, and [this](https://ehdinayan.github.io/portfolio/) is website to visit for now...
+This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo before fixing possible errors or domain name change, and [this](https://crazydb.netlify.app/) is website to visit for now...
 
-## Agradecimiento y atribuciones / Attributions & thanks to:
+## Guía de repositorios / Repo guidance:
 
-- **MUSIC - FX**
+- **DESARROLLO WEB FRONTEND**
 
-  **Alejandro Magaña**
+  Pequeña síntesis de desarrollo web [aqui](https://github.com/ehdinayan/Desarrollo-Web) 
 
-  See Line Funk, [mixkit.](https://mixkit.co/) (JavaScript video)
+- **FUNDACION TELEFONICA PISCINA BARCELONA42**
 
-  **French Fuse**
+  Después de participar en la GGJ - Global Game Jam 2023- en esta sede de Barcelona, me quedé a participar del evento al que llaman "piscina".
 
-  Straight [Fuse.](https://www.youtube.com/watch?v=6ozdaINBLhQ) (Web analysis video)
+  Durante la 2º semana aprendí [esto](https://github.com/ehdinayan/C00) sobre programación en C.
+  
+  Durante la 1º, realicé ejercicios con los que ya estaba algo familiarizado y que muestro [aquí](https://github.com/ehdinayan/Shell00).
 
-  **FiftySounds**
+- **AQUI UN PAR DE REPOSITORIOS RELACIONADOS CON EL CURSO UNIX WORKBENCH**
 
-  Amazing [future](https://www.fiftysounds.com/es/musica-libre-de-derechos/ambiente.html) (Bootstrap video)
+  Ejercicios realizados del curso [Unix Workbench](https://www.coursera.org/learn/unix/) [aqui](https://github.com/ehdinayan/Week4-Study-Journal)  y [aquí](https://github.com/ehdinayan/Cloud-exercises). Cloud computing, Git & GitHub, etc...
 
-  **Neffex**
-
-  [Go!](https://www.youtube.com/watch?v=X5cfg26vkOQ) (HTML5 & CSS Video)
-
-  [The Itch](https://www.youtube.com/watch?v=9uYhFfXXtwA)  (Design Video)
-
-  [No Turning Back](https://www.youtube.com/watch?v=WzHyamdBZ2Y)  (Web analysis video)
-
-  Rie's sound effects series [cars.](https://freesound.org/people/Rie-chanThirty/sounds/683896/) (Web analysis video)
-
-  **Icons** [Icons8](https://icons8.com/)
-
-  **thanks also to:**
-
-  SOC, @Barcelona Activa, @Daniel Bright, @Kolade Chris
+- **El resto son proyectos de desarrollo web en marcha en repos privados o bien ejercicios FrontEnd llevados a cabo durante la [formación](https://serveiocupacio.gencat.cat/ca/persones/vull-formar-me/cercadors-formacio-especialitats/cercador-integrat/fitxa-especialitat.html?certificats=Si&codi_especialitat=&denominacio=&familiaProfessional=IFC&certificatSelecionat=&codi_especialitat_seleccionada=IFCD0210&historicFiltersf=%255B%257B%2522name%2522%253A%2522especialitats%2522%252C%2522filter%2522%253A%255B%2522%28familia.codi%253A%255C%2522IFC%255C%2522%2520OR%2520familia.codi%253A%255C%2522IFC%255C%2522%29%2520AND%2520%2520NOT%2520certProf%253A%255C%2522undefined%255C%2522%2522%252C%2522%2522%255D%252C%2522filtrosArray%2522%253A%257B%2522familiaCodi%2522%253A%255B%2522IFC%2522%252C%2522IFC%2522%255D%252C%2522certificat%2522%253A%2522Si%2522%257D%252C%2522replica%2522%253A%2522%2522%252C%2522reescribir%2522%253A%2522false%2522%257D%255D) como Desarrollador de aplixaciones con tecnologías web cursada en 2022..Saludos! 
