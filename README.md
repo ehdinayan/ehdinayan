@@ -57,6 +57,6 @@ This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo 
 
    Workshoppers [NodeSchool](https://github.com/ehdinayan/JavaScriptRepo/tree/master/NodeSchool)
 
-**El resto son proyectos de desarrollo web en marcha en repos privados o bien ejercicios FrontEnd llevados a cabo durante la formación oficial como Desarrollador de aplicaciones con tecnologías web.**
+**El resto son proyectos de desarrollo web en marcha en repos privados principalmente.**
 
- **Saludos!** 
+**Saludos!**
