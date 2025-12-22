@@ -45,11 +45,11 @@ This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo 
   
   También realicé ejercicios de bash scripting, git & github, etc con los que ya estaba algo familiarizado y que muestro [aquí](https://github.com/ehdinayan/Shell00).
 
-- **AQUI UN PAR DE REPOSITORIOS RELACIONADOS CON EL CURSO UNIX WORKBENCH**
+- **REPOSITORIOS RELACIONADOS CON EL CURSO THE UNIX WORKBENCH**
 
-  Ejercicios realizados del curso [Unix Workbench](https://www.coursera.org/learn/unix/) [aqui](https://github.com/ehdinayan/Week4-Study-Journal)  y [aquí](https://github.com/ehdinayan/Cloud-exercises). Cloud computing, Git & GitHub, etc...
+  Ejercicios del curso [Unix Workbench](https://www.coursera.org/learn/unix/) disponibles [aqui](https://github.com/ehdinayan/Week4-Study-Journal)  y también [aquí](https://github.com/ehdinayan/Cloud-exercises). Cloud computing, Git & GitHub, etc...
 
-- **AQUI JAVASCRIPTING PRACTICADO EN LA FORMACIÓN OFICIAL Y POR CUENTA PROPIA**
+- **JAVASCRIPTING PRACTICADO EN LA FORMACIÓN OFICIAL Y POR CUENTA PROPIA**
 
   Un repo centrado javascripting, desde nivel inicial hasta algo más avanzado con workshoppers de Nodeschool, o minicursos de Fundación Telefónica. Abarcan bastantes tecnologías y fincionalidades y los ficheros readme son realmente prácticos, ya que incluyen tanto teoría como ejercicios.
 
