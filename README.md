@@ -23,14 +23,6 @@ Iré actualizándola periódicamente con los conocimientos y proyectos tecnológ
 Aquí el enlace a la [web para visitar](https://crazydb.netlify.app/)
 
 
-HELLOW!
-
-This is my personal Web Site from following template and [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
-
-I'll be updating it with new tech knowledge and projects I join.
-
-This is [link](https://github.com/ehdinayan/portfolio) to provisional code repo before fixing possible errors or domain name change, and [this](https://crazydb.netlify.app/) is website to visit for now...
-
 ## Guía de repositorios / Repo guidance:
 
 - **DESARROLLO WEB FRONTEND**
