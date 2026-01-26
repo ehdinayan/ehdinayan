@@ -20,7 +20,7 @@ Aquí  presento mi web personal partiendo de la siguiente plantilla y [tutorial.
 
 Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte.
 
-Aquí el enlace a la [web para visitar](https://crazydb.netlify.app/)
+Aquí el enlace a la [web para visitar](https://crazydiamond.top/)
 
 
 ## Guía de repositorios / Repo guidance:
