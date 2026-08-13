@@ -20,7 +20,7 @@ HOLA!
 
 Aquí  presento mi web personal partiendo de la siguiente plantilla y [tutorial.](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
 
-Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte. Actualmente está en proceso de actualización y me llevará un poco todavía terminarla porque estoy en proceso de añadir nuevas webs y servicios, si pulsais el enlace de la [web para visitar](https://crazydiamond.top/) lo comprobaréis by your self :)
+Iré actualizándola periódicamente con los conocimientos y proyectos tecnológicos en los que tome parte. Actualmente está en proceso de actualización y me llevará un poco todavía terminarla porque estoy añadiendo nuevas webs y servicios, si pulsais el enlace de la [web para visitar](https://crazydiamond.top/) lo comprobaréis by your self :)
 
 
 ## Guía de repositorios / Repo guidance:
